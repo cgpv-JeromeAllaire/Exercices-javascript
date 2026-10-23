@@ -21,3 +21,4 @@ console.log("La circonférence d'un cercle ayant un rayon de 4cm est : ", circon
 let nomEleve = "Allaire"; let prenomEleve = "Jérôme"; let ageEleve = 17;
 console.log("Je m'appelle " + prenomEleve + " " + nomEleve + " et j'ai " + ageEleve + " ans");
 console.log(`Je m'appelle ${prenomEleve} ${nomEleve} et j'ai ${ageEleve} ans`);
+
