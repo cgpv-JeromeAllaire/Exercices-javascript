@@ -1,6 +1,6 @@
 log("MettreTexteIci");
 
-console.log(saison("octobre"))
+console.log(saison("octobre"));
 
 /**
  * Afficher un message à la console
